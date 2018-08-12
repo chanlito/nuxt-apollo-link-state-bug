@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-apollo-link-state",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc1",
+    "graphql-tag": "^2.9.2",
+    "nuxt": "^1.4.2"
+  },
+  "devDependencies": {}
+}
